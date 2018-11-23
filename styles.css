@@ -1,0 +1,50 @@
+body{
+  background-color: : grey;
+  margin-top: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:black;
+  }
+  p{
+    font-family: 'Ribeye Marrow', cursive;
+    font-size:200%;
+    clear:right;
+    margin-top: 150px;
+}
+h1{
+  text-align: center;
+}
+nav ul{
+margin: 0;
+float:right;
+}
+nav ul li{
+  display:inline;
+  padding :10px;
+  margin: 15px;
+  font-family: 'Orbitron', sans-serif;
+  background-color: grey;
+  border-radius: 10px;
+
+  }
+  nav ul li a{
+    text-align: center;
+    text-decoration: none;
+    color: red;
+  }
+.description{
+    font-family: 'Knewave', cursive;
+    float:right;
+  }
+  img{
+    height:250px;
+    width:500px;
+    float:left;
+  }
+  #demo{
+    font-family: 'Alfa Slab One', cursive;
+  }
+  .Experiences{
+    font-family: 'Bangers', cursive;
+    clear: center;
+  }
