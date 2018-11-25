@@ -12,6 +12,7 @@ body{
     clear:right;
     margin-top: 150px;
     font-family: 'Pacifico', cursive;
+    margin-left: 15px;
 }
 h1{
   text-align: center;
@@ -44,7 +45,7 @@ nav ul li{
   }
   .img{
     height:250px;
-    width:250px;
+    width:500px;
     float:left;
   }
   #demo{
@@ -90,4 +91,8 @@ nav ul li{
 a:hover{
   background-color: green;
   text-transform: uppercase;
+}
+h2{
+  margin-left: 100px;
+  font-family: 'Pacifico', cursive;
 }
