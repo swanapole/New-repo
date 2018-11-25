@@ -87,3 +87,7 @@ nav ul li{
 .mor{
   clear: left;
 }
+a:hover{
+  background-color: green;
+  text-transform: uppercase;
+}
