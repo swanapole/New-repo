@@ -4,8 +4,13 @@ body{
   margin-top: 10px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(https://nyobetabeat.files.wordpress.com/2014/12/screen-shot-2014-12-08-at-11-53-44-am1.png);
+  background-position: center;
+  background-image: url(https://as2.ftcdn.net/jpg/02/33/16/13/500_F_233161323_8mf3BKBCfFkg85sMPZsmvQAirpP4SMQR.jpg);
   color:white;
+  }
+  #por{
+    font-size: 100px;
+    margin-top: 0px;
   }
   p{
     font-size:200%;
@@ -17,9 +22,10 @@ body{
 h1{
   text-align: center;
   margin-top: 150px;
-  margin-bottom: 150px;
+  margin-bottom: 50px;
   font-family: 'Lobster', cursive;
   padding:20px;
+  font-size:50px;
 }
 nav ul{
 margin: 0;
@@ -44,8 +50,8 @@ nav ul li{
     float:right;
   }
   .img{
-    height:250px;
-    width:500px;
+    height:300px;
+    width:300px;
     float:left;
   }
   #demo{
@@ -57,19 +63,23 @@ nav ul li{
   }
 .intro{
   text-align: center;
-  margin-bottom: 150px;
-  margin-top: 250px;
+  margin-bottom: 100px;
+  margin-top: 200px;
 }
 .change{
   background-color: black;
+  color:white;
 }
 .image{
   float: right;
-  height: 250px;
-  width:500px;
+  height: 350px;
+  width:400px;
+  margin-top: 150px;
+
 }
 .con{
   clear:left;
+  margin-top:200px;
 }
 .experiences h2{
   clear: center;
@@ -77,11 +87,7 @@ nav ul li{
 .link ol li{
   font-family: 'Russo One', sans-serif;
 }
-.experiences{
-  background-image: url(https://images.unsplash.com/photo-1516491575772-bab9f75948c0?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=67c8699f273e4051d9ab9e19c6c83614&w=1000&q=80);
-  background-repeat:no-repeat;
-  background-size: cover;
-}
+
 .experiences h1 h2{
   float: center;
 }
@@ -95,4 +101,22 @@ a:hover{
 h2{
   margin-left: 100px;
   font-family: 'Pacifico', cursive;
+}
+.coo{
+  font-family: 'Cabin Sketch', cursive;
+  padding: 10px;
+  font-size: 25px;
+  }
+.reach{
+  clear: right;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  display: inline;
+  padding:5px;
+}
+#home{color:black;}
+
+footer{
+  background-image: url(https://as1.ftcdn.net/jpg/02/33/16/10/500_F_233161074_eP0AneAPpTWOniQI2ZMaprOHCQrCPKcu.jpg);
+  color: black;
 }
